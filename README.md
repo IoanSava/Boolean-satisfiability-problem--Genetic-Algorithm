@@ -1,1 +1,1 @@
-# Boolean-satisfiability-problem--Genetic-Algorithm
+Genetic Algorithm and Simulated Annealing method for Boolean Satisfiability Problem 
