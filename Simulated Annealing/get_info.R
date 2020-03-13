@@ -1,0 +1,6 @@
+x = scan("data_SA.txt")
+min(x)
+max(x)
+mean(x)
+median(x)
+sd(x)
